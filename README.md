@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Valijon!
-- 👀 I’m interested in Mobile developing!
-- 🌱 I’m currently learning Mobile developing and Testing!
-- 💞️ I’m looking to collaborate on developing cool projects!
+- I'm Android developer!
 - 📫 How to reach me : Telegram: @valijonboy 
 
 <!---
